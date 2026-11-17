@@ -22,6 +22,8 @@ description: 明日方舟「卫戍协议·规程·序列Ⅰ」离线数据与攻
 
 ## 查询
 
+以下命令均在 **skill 目录**（`SKILL.md` 所在目录）执行；先 `cd` 到该目录，或把路径换成绝对路径。
+
 ```bash
 python3 scripts/query.py op 奥尔佳
 python3 scripts/query.py bond 乌萨斯
